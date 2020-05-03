@@ -4,7 +4,7 @@ cd ..
 cd ..
 mkdir -p DataWashingMachine
 echo "DataWashingMachine folder was created..."
-mv Downloads/machineTurnOn.sh DataWashingMachine/
+mv Downloads/DataWashingMachine-master/machineTurnOn.sh DataWashingMachine/
 
 # declare download URLs for OpenRefine and OpenRefine client
 openrefine_URL="https://github.com/OpenRefine/OpenRefine/releases/download/3.2/openrefine-linux-3.2.tar.gz"
