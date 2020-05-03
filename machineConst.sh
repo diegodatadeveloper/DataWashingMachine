@@ -1,6 +1,7 @@
 #!/bin/bash
 
 cd ..
+cd ..
 mkdir -p DataWashingMachine
 echo "DataWashingMachine folder was created..."
 mv Downloads/machineTurnOn.sh DataWashingMachine/
